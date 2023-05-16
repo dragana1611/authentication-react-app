@@ -6,3 +6,13 @@
 .starting h1 {
   font-size: 5rem;
 }
+
+.imageContainer {
+  margin-top: 100px;
+  height: 400px;  
+}
+
+.imageContainer img {
+  height: 100%;
+  object-fit: cover;
+}
